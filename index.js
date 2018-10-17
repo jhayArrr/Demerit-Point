@@ -8,6 +8,6 @@ function checkSpeed (speed) {
 
   // This variable and formula are const (constant) for security so it cannot be changed, for example when cross-scripting
   const points = Math.floor (); //Add formula for calculating the point demerits
-  if (>= 130) return console.log ('License Suspended'); //Add conditional to check for points to suspend license
+  if (13) return console.log ('License Suspended'); //Add conditional to check for points to suspend license
   else console.log ('Points', points)
 }
